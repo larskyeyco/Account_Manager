@@ -17,8 +17,7 @@ An application that uses an external API - in my case – Riot Games API. After 
 - MaterialDesignColors 1.2.6
 - MaterialDesignThemes 3.1.3
 ## Features
-- Display Raid Boss Status
-- Refresh Raid Boss Status
+- Display account details
 ## Screenshots
 ![Start](./img/1.png)
 ![ShowData](./img/2.png)
